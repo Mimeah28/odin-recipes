@@ -1,0 +1,40 @@
+/* this is for every page */
+body{
+    background-image: url(../odin-recipes/imgs/flag.jpg);background-size: cover;
+}
+/* this is index */
+.h1{
+    font-size: 50px;
+    font-style: italic;
+
+}
+p button{
+   font-size: 50px;
+   background-color: white;
+   border-color: black;
+   border-width: 5px;
+}
+/* this is shawarma page */
+.one {
+    font-size: 36px;
+}
+
+.h1-sh{
+    text-align: center;
+    font-size: 70px;
+    font-style: italic;
+    font-weight: bold;
+}
+.h2-sh{
+    font-size: 40px;
+}
+.ul-sh{
+    font-size: 30px;
+}
+.heb-sh{
+    font-size: 30px;
+}
+/*this is for chicken*/
+
+
+
