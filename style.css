@@ -14,7 +14,7 @@ p button{
    border-color: black;
    border-width: 5px;
 }
-/* this is shawarma page */
+/* this is shawarma page -sh */
 .one {
     font-size: 36px;
 }
@@ -34,7 +34,26 @@ p button{
 .heb-sh{
     font-size: 30px;
 }
-/*this is for chicken*/
+/*this is for chicken -pm*/
+.h1-pm{
+    text-align: center;
+    font-size: 70px;
+    font-style: italic;
+    font-weight: bold;
+}
+.p-pm{
+font-size: 50px;
+    font-style: italic;
+}
+.h2-pm{
+    font-size: 40px;  
+}
+.ul-pm{
+    font-size: 30px;
+}
+.ol-pm{
+    font-size: 30px;
+}
 
 
 
